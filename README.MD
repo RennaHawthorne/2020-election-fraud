@@ -1,7 +1,7 @@
-### Election Fraud 2020 Center
+# Election Fraud 2020 Center
 
 
-## Repo Layout
+### Repo Layout
 
 ```
 /2digitStateCode/parse_registration.py # Converts states data to Registration Data Format
@@ -9,7 +9,7 @@
 ```
 
 
-## Registration Data Format
+### Registration Data Format
 
 ```
 {
