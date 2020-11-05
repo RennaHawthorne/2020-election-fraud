@@ -17,7 +17,7 @@
    middle: '' ,
    last: '',
    suffix: '',
-   zip: '', // 5 digit 
+   zip: XXXXX, // 5 digit 
    street: '',
    city: '',
    yob: YYYY,
