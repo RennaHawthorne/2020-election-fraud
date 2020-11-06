@@ -20,9 +20,11 @@
    zip: XXXXX, // 5 digit 
    street: '',
    city: '',
+   state: '', 
    yob: YYYY,
-   yod YYYY,
+   yod: YYYY,
    dob: YYYY-MM-DD,
-   dod YYYY-MM-DD,
+   dod: YYYY-MM-DD,
+   voter_id_num: XXXXXX,
 }
 ```
